@@ -12,6 +12,7 @@ x402 is an open protocol that uses HTTP status code 402 (Payment Required) to en
 
 | Service | Tools | Chains | URL |
 |---------|-------|--------|-----|
+| [AgentKit Data](https://x402-apis-production.up.railway.app) | Markdown extract, Solana token risk, Solana wallet | Base (USDC) | https://x402-apis-production.up.railway.app |
 | **Rug Munch Intelligence (RMI)** | 221 | 13 (Base, ETH, Solana, BSC, Arbitrum, Polygon, Avalanche, Fantom, Gnosis, Optimism, TRON, BTC, SEPA) | https://rugmunch.io/.well-known/x402 |
 
 *Submit a PR to add your x402 service!*
